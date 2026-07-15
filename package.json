@@ -1,0 +1,11 @@
+{
+  "name": "Cavalry Plugins",
+  "type": "module",
+  "workspaces": [
+    "plugins/*"
+  ],
+  "devDependencies": {
+    "@scenery/cavalry-types": "^1.0.0",
+    "typescript": "^7.0.2"
+  }
+}
